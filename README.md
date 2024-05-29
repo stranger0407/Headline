@@ -60,7 +60,7 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
     * Building Modern Android Apps with Architecture Guidelines
     * Guide to app architecture
    <tr>
-   <td><img src="https://github.com/Raj-m01/News-App/blob/master/screenshots/home.jpeg" alt="News home" style="width:200px;height:400px;"></td>
+   <td><img src="https://camo.githubusercontent.com/a0c965a9357f0704a1f5219cfec01510dd1014adba29f88f873e2d937c70336a/68747470733a2f2f646576656c6f7065722e616e64726f69642e636f6d2f746f7069632f6c69627261726965732f6172636869746563747572652f696d616765732f66696e616c2d6172636869746563747572652e706e67" alt="News home" style="width:200px;height:400px;"></td>
    </tr>
 
 
